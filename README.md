@@ -5,7 +5,7 @@ adil el-faruqi
 
 # INSTALASI PYTHON 
 
-https://github.com/yakuza21/19104081_PRAK_GUI/blob/pertemuan1/1.PNG
+![1](https://user-images.githubusercontent.com/72428662/114963677-77144700-9e97-11eb-8796-18bf21b530ea.PNG)
 
 
 
