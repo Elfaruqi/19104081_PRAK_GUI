@@ -22,4 +22,24 @@ adil el-faruqi
 
 
 
+# TEST CODING 1-5
+
+![6](https://user-images.githubusercontent.com/72428662/114964438-f0606980-9e98-11eb-951f-83fb54815db0.PNG)
+
+
+![7](https://user-images.githubusercontent.com/72428662/114964450-f35b5a00-9e98-11eb-86c9-ed7207579ee2.PNG)
+
+
+![8](https://user-images.githubusercontent.com/72428662/114964458-f6eee100-9e98-11eb-86a2-bd1a43c97f3c.PNG)
+
+
+![9](https://user-images.githubusercontent.com/72428662/114964474-feae8580-9e98-11eb-92fe-b0a16c497df4.PNG)
+
+
+![10](https://user-images.githubusercontent.com/72428662/114964477-02daa300-9e99-11eb-9594-ace09eb1fd87.PNG)
+
+
+
+
+
 
